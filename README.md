@@ -1,4 +1,4 @@
-# [How to Create Notification Channels] [published url]
+# [How to Create Notification Channels][published url]
 ## Developer: [Sopan Ahmed][instructor url]
 
 
